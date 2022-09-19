@@ -6,7 +6,7 @@ class Pay
     public static function show($name = 'veitool')
     {
         return $name;
-        echo '12346';
+        echo '12348';
     }
 
 }
